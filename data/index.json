@@ -1,0 +1,53 @@
+{
+  "updated_at": null,
+  "files": [
+    {
+      "uf": "RS",
+      "month": "202312",
+      "file": "ans_RS_202312.json",
+      "path": "data/ans_RS_202312.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202406",
+      "file": "ans_RS_202406.json",
+      "path": "data/ans_RS_202406.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202412",
+      "file": "ans_RS_202412.json",
+      "path": "data/ans_RS_202412.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202506",
+      "file": "ans_RS_202506.json",
+      "path": "data/ans_RS_202506.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202511",
+      "file": "ans_RS_202511.json",
+      "path": "data/ans_RS_202511.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202512",
+      "file": "ans_RS_202512.json",
+      "path": "data/ans_RS_202512.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202601",
+      "file": "ans_RS_202601.json",
+      "path": "data/ans_RS_202601.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202602",
+      "file": "ans_RS_202602.json",
+      "path": "data/ans_RS_202602.json"
+    }
+  ]
+}
