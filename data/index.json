@@ -54,6 +54,12 @@
       "month": "202603",
       "file": "ans_RS_202603.json",
       "path": "data/ans_RS_202603.json"
+    },
+    {
+      "uf": "RS",
+      "month": "202604",
+      "file": "ans_RS_202604.json",
+      "path": "data/ans_RS_202604.json"
     }
   ]
 }
